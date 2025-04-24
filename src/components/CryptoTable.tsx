@@ -156,7 +156,7 @@ const CryptoTable: React.FC = () => {
               {!isMobile && (
                 <TableCell align="right">
                   <ResponsiveContainer width="100%" height={40}>
-                    <AreaChart data={asset.chartData.map((value, index) => ({ value }))}
+                    <AreaChart data={asset.chartData.map((value) => ({ value }))}
                       margin={{ top: 0, right: 0, left: 0, bottom: 0 }}>
                       <defs>
                         <linearGradient 

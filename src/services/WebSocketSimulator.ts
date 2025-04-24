@@ -1,5 +1,5 @@
 export class WebSocketSimulator {
-  private intervalId: NodeJS.Timeout | null = null;
+  private intervalId: number | null = null;
   private subscribers: ((data: any) => void)[] = [];
 
   constructor(private updateInterval: number = 2000) {}

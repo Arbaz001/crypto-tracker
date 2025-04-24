@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { CryptoState, CryptoAsset } from '../types/crypto';
+import { CryptoState } from '../types/crypto';
 
 const initialState: CryptoState = {
   assets: [
