@@ -54,6 +54,8 @@ src/
 │   └── crypto.ts
 └── App.tsx
 ```
+## Demo Video Link with thought process
+- https://drive.google.com/file/d/18lWfp_x33LXxeg3-9mmWyj1Uw-Vl-lOc/view?usp=sharing
 
 ## Architecture
 
