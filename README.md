@@ -1,4 +1,4 @@
-# Crypto Price Tracker
+# Crypto Price Tracker  `https://crypto-tracker-ebon.vercel.app/`
 
 A real-time cryptocurrency price tracking application built with React, Redux Toolkit, and Material-UI.
 
@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `https://crypto-tracker-ebon.vercel.app/`
 
 ## Project Structure
 
